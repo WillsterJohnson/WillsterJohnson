@@ -1,10 +1,10 @@
-### Will Johnson (Willster277)
+## Will Johnson (Willster277)
 
-#### My Standard TypeScript Project Setup
+### My Standard TypeScript Project Setup
 
 You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) in this repo. As for clientside, how you link that depends on how you like to do frontend development. If you want to directly clone the template, check out my [TypeScript Template](https://github.com/willster277/typescript-backend-template) repo.
 
-#### My VSCode Extensions Setup
+### My VSCode Extensions Setup
 
 I use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to overcome my sloppy typing.
 
@@ -24,7 +24,7 @@ For linting everything else though, [Prettier - Code Formatter](https://marketpl
 
 Some great tools to help with path finding in projects are [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) and [Move TypeScript](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts).
 
-#### My VSCode Theme Setup
+### My VSCode Theme Setup
 
 Im using [Monokai Pro (Machine Filter) Theme](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 
