@@ -27,7 +27,7 @@ app.use(cors());
 
 // connect to mongoDB and go live
 mongoose
-	.connect(MONGOURL, { useNewUrlParser: true, useUnifiedTopology: true })
+	.connect(MONGOURL, { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false })
 	.then(() => {
 		app.listen(PORT, () => {
 			console.log(`Server running on port ${PORT}`);
