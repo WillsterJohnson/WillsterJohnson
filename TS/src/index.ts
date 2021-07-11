@@ -13,12 +13,19 @@ const PORT = 5000;
 app.use(express.json({ limit: "30mb" }));
 app.use(express.urlencoded({ extended: true }));
 
+// use your routes here
 app.use("/template", routes.template);
 
+// no routes beyond this point
+// customize your 404 webpage here
 app.get("*", (req: Request, res: Response) => {
 	res.status(404).send("This page or resource doesn't exist.");
 });
+
+// allows using independent frontend
 app.use(cors());
+
+// connect to mongoDB and go live
 mongoose
 	.connect(MONGOURL, { useNewUrlParser: true, useUnifiedTopology: true })
 	.then(() => {
