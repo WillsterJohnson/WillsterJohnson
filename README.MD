@@ -2,7 +2,7 @@
 
 #### My Standard TypeScript Project Setup
 
-You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) in this repo. As for clientside, how you link that depends on how you like to do frontend development.
+You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) in this repo. As for clientside, how you link that depends on how you like to do frontend development. If you want to directly clone the template, check out my [TypeScript Template](https://github.com/willster277/typescript-backend-template) repo.
 
 #### My VSCode Extensions Setup
 
