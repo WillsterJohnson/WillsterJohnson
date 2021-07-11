@@ -1,4 +1,14 @@
-## Will Johnson (Willster277)
+## Will 'Willster' Johnson
+
+### About Me
+
+My name is Will Johnson, I'm 18 years old, and I'm a fullstack web developer.
+
+I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
+
+My preferred language is TypeScript, and I'm one R away from being a proficient MERNStack developer.
+
+You can find me on Discord at `willster277#2707`
 
 ### My Standard TypeScript Project Setup
 
