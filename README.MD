@@ -10,17 +10,17 @@ My preferred language is TypeScript, and I'm one R away from being a proficient 
 
 You can find me on Discord at `willster277#2707`
 
-![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=cobalt&hide=stars,prs)
+![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=monokai&hide=stars,prs)
 
 ### My Standard TypeScript Project Setup
 
 I've made a repo as a template for [serverside TypeScript](./TS) which you can use to skip the boring process of setting up your project.
 
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=cobalt)](https://github.com/willster277/typescript-backend-template)
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=monokai)](https://github.com/willster277/typescript-backend-template)
 
 If you don't do TypeScript, I've removed typings and done a little clean-up and made a [JavaScript only version](./JS).
 
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=cobalt)](https://github.com/willster277/javascript-backend-template)
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=monokai)](https://github.com/willster277/javascript-backend-template)
 
 ### My VSCode Extensions Setup
 
