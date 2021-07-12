@@ -14,7 +14,7 @@ You can find me on Discord at `willster277#2707`
 
 ### My Standard TypeScript Project Setup
 
-You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) here. As for clientside, how you link that depends on how you like to do frontend development.
+I've made a repo as a template for [serverside TypeScript](./TS) which you can use to skip the boring process of setting up your project.
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=cobalt)](https://github.com/willster277/typescript-backend-template)
 
