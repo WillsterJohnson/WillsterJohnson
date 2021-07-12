@@ -10,6 +10,8 @@ My preferred language is TypeScript, and I'm one R away from being a proficient 
 
 You can find me on Discord at `willster277#2707`
 
+![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=cobalt&hide=stars,prs,issues,contribs)
+
 ### My Standard TypeScript Project Setup
 
 You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) here. As for clientside, how you link that depends on how you like to do frontend development. If you want to directly clone the template, check out my [TypeScript Template](https://github.com/willster277/typescript-backend-template) repo.
