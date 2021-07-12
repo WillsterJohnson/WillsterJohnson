@@ -13,7 +13,7 @@ const PORT = 5000;
 app.use(express.json({ limit: "30mb" }));
 app.use(express.urlencoded({ extended: true }));
 
-// customize your 404 webpage here
+// customize your 404 webpage here 
 const defaultErr = (req, res) => {
 	res.status(404).send("This page or resource doesn't exist.");
 };

@@ -1,5 +1,5 @@
 // If you've just downloaded this repo, be sure to run `npm i` to install necessary dependencies
-// Take a look in package.json scripts, you'll see you can run `npm test` to run nodemon without compiling - magical!
+// Take a look in package.json scripts, you'll see you can run `npm test` to run nodemon without compiling - magical
 // Also have a look around the files to see what's set up for you
 import express, { Request, Response } from "express";
 import mongoose from "mongoose";
