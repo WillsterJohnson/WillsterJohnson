@@ -8,7 +8,7 @@
 
 ### My preferred language is TypeScript, and I'm one R away from being a proficient MERNStack developer.
 
-<img height="32" width="32" src="assets/mongo.png" /> <img height="32" width="32" src="assets/docker.png" /> <img height="32" width="32" src="assets/express.png" /> <img height="32" width="32" src="assets/node.png" /> <img height="32" width="32" src="assets/typescript.png" />
+<img height="32" width="32" src="assets/mongo.png" />&nbsp;<img height="32" width="32" src="assets/docker.png" />&nbsp;<img height="32" width="32" src="assets/express.png" />&nbsp;<img height="32" width="32" src="assets/node.png" />&nbsp;<img height="32" width="32" src="assets/typescript.png" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willster277&theme=react&layout=compact)
 
