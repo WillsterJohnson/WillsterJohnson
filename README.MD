@@ -10,7 +10,7 @@ My preferred language is TypeScript, and I'm one R away from being a proficient 
 
 You can find me on Discord at `willster277#2707`
 
-![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=cobalt)
+![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=cobalt&hide=stars,prs)
 
 ### My Standard TypeScript Project Setup
 
