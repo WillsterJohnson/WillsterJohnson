@@ -14,9 +14,13 @@ You can find me on Discord at `willster277#2707`
 
 ### My Standard TypeScript Project Setup
 
-You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) here. As for clientside, how you link that depends on how you like to do frontend development. If you want to directly clone the template, check out my [TypeScript Template](https://github.com/willster277/typescript-backend-template) repo.
+You can find the tempate files for serverside TypeScript in the [TS Folder](./TS) here. As for clientside, how you link that depends on how you like to do frontend development.
 
-If you don't do TypeScript, I've removed typings and done a little clean-up and made a [JS only version](https://github.com/willster277/javascript-backend-template) which you can also find in the [JS Folder](./JS).
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=cobalt)](https://github.com/willster277/typescript-backend-template)
+
+If you don't do TypeScript, I've removed typings and done a little clean-up and made a [JavaScript only version](./JS).
+
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=cobalt)](https://github.com/willster277/javascript-backend-template)
 
 ### My VSCode Extensions Setup
 
