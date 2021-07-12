@@ -1,28 +1,30 @@
-## Will 'Willster' Johnson
+# Will 'Willster' Johnson
 
-### About Me
+## About Me
 
-My name is Will Johnson, I'm 18 years old, and I'm a fullstack web developer.
+### My name is Will Johnson, I'm 18 years old, and I'm a fullstack web developer.
 
-I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
+### I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
 
-My preferred language is TypeScript, and I'm one R away from being a proficient MERNStack developer.
+### My preferred language is TypeScript, and I'm one R away from being a proficient MERNStack developer.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willster277&theme=react&layout=compact)
+
+![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=react&hide=stars,prs)
 
 You can find me on Discord at `willster277#2707`
 
-![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=monokai&hide=stars,prs)
-
-### My Standard TypeScript Project Setup
+## My Standard TypeScript Project Setup
 
 I've made a repo as a template for [serverside TypeScript](./TS) which you can use to skip the boring process of setting up your project.
 
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=monokai)](https://github.com/willster277/typescript-backend-template)
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=react)](https://github.com/willster277/typescript-backend-template)
 
 If you don't do TypeScript, I've removed typings and done a little clean-up and made a [JavaScript only version](./JS).
 
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=monokai)](https://github.com/willster277/javascript-backend-template)
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=react)](https://github.com/willster277/javascript-backend-template)
 
-### My VSCode Extensions Setup
+## My VSCode Extensions Setup
 
 I use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to overcome my sloppy typing.
 
@@ -42,7 +44,11 @@ For linting everything else though, [Prettier - Code Formatter](https://marketpl
 
 Some great tools to help with path finding in projects are [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) and [Move TypeScript](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts).
 
-### My VSCode Theme Setup
+## My VSCode Theme Setup
+
+![My VSCode Appearance](./assets/editor.png)
+
+(This is not my native resolution, I've shrunk VSCode's width for this screenshot)
 
 Im using [Monokai Pro (Machine Filter) Theme](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 
