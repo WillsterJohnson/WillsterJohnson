@@ -50,8 +50,6 @@ Some great tools to help with path finding in projects are [Path intellisense](h
 
 ![My VSCode Appearance](./assets/editor.png)
 
-(This is not my native resolution, I've shrunk VSCode's width for this screenshot)
-
 Im using [Monokai Pro (Machine Filter) Theme](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
 
 The font I use is [Victor Mono](https://rubjo.github.io/victor-mono/).
@@ -89,3 +87,5 @@ The file icons im using are [material icons](https://marketplace.visualstudio.co
 "material-icon-theme.activeIconPack": "react_redux",
 "material-icon-theme.hidesExplorerArrows": true
 ```
+
+I'm using [oh-my-bash](https://github.com/ohmybash/oh-my-bash) Agnoster theme to color my bash terminal, though there is also [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) for any zsh users which does mostly the exact same.
