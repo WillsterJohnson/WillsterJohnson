@@ -1,0 +1,23 @@
+{
+	"name": "name",
+	"version": "1.0.0",
+	"description": "",
+	"main": "app/index.js",
+	"type": "commonjs",
+	"scripts": {
+		"start": "node app/index.js",
+		"pretest": "docker-compose -f database/docker-compose.yml up -d",
+		"test": "nodemon app/index.js"
+	},
+	"dependencies": {
+		"express": "^4.17.1",
+		"mongoose": "^5.13.2",
+		"cors": "^2.8.5"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.12"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "MIT"
+}
