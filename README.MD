@@ -40,7 +40,9 @@ To help with checking colors at a glance in any language, [Colorize](https://mar
 
 In any xml (including jsx/tsx) [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) is a huge help.
 
-When editing markdown, especially for quickly rendering HTML, [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) and [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) are useful tools. As for linting and formatting, I use [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) and [Markdown-Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter) respectively.
+When editing markdown, especially for quickly rendering HTML, [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) and [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) are useful tools. 
+
+As for linting and formatting markdown, I use [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) and [Markdown-Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter) respectively.
 
 For linting everything else though, [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is the way to go.
 
