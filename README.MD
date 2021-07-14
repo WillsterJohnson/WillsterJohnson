@@ -6,7 +6,7 @@
 
 ### I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
 
-### My preferred language is TypeScript, and I'm one R away from being a proficient MERNStack developer.
+### My preferred language is TypeScript, and I'm currently learning Svelte and SvelteKit to improve my fullstack skills.
 
 <img height="32" width="32" src="assets/mongo.png" />&nbsp;<img height="32" width="32" src="assets/docker.png" />&nbsp;<img height="32" width="32" src="assets/express.png" />&nbsp;<img height="32" width="32" src="assets/node.png" />&nbsp;<img height="32" width="32" src="assets/typescript.png" />
 
