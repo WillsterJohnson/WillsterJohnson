@@ -16,7 +16,17 @@
 
 You can find me on Discord at `willster277#2707`
 
-## My Standard TypeScript Project Setup
+## Find A Thing
+
+[Featured Repo](#Featured-Repo-Express-API-Template)
+
+[VSCode Setup - Extensions](#My-VSCode-Extensions-Setup)
+
+[VSCode Setup - Themes](#My-VSCode-Theme-Setup)
+
+[Pins and Contributions](#Pins-and-Contributions)
+
+## Featured Repo: Express API Template
 
 I've made a repo as a template for [serverside TypeScript](./TS) which you can use to skip the boring process of setting up your project.
 
@@ -102,3 +112,7 @@ The file icons im using are [material icons](https://marketplace.visualstudio.co
 ```
 
 I'm using [oh-my-bash](https://github.com/ohmybash/oh-my-bash) Agnoster theme to color my bash terminal, though there is also [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) for any zsh users which does mostly the exact same.
+
+## Pins and Contributions
+
+They're just below.
