@@ -30,7 +30,7 @@ If you don't do TypeScript, I've removed typings and done a little clean-up and 
 
 I use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to overcome my sloppy typing.
 
-And when that isn't enough, I use [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) to autocomplete phrases and speed up my workflow.
+~~And when that isn't enough, I use [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) to autocomplete phrases and speed up my workflow.~~ _**I got GitHub Copilot early access! While the beta is ongoing (and probably afterwards too) I will be using Copilot instead of TabNine.**_
 
 To keep track of my docker containers, I use [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) and [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
 
