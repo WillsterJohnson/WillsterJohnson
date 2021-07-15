@@ -1,6 +1,6 @@
 # Will 'Willster' Johnson
 
-<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet" alt="Discord: willster277#2707"></a>
+<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=20&labelColor=adf" alt="Discord: willster277#2707"></a>
 
 ## About Me
 
