@@ -14,7 +14,7 @@
 
 ![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=react&hide=stars,prs)
 
-You can find me on Discord at <a href="https://discord.com/users/773137363395674133">willster277#2707</a>
+You can find me on Discord at <a target="_blank" href="https://discord.com/users/773137363395674133">willster277#2707</a>
 
 ## Find A Thing
 
