@@ -1,6 +1,8 @@
 # Will 'Willster' Johnson
 
-<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=20&labelColor=adf" alt="Discord: willster277#2707"></a>
+<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=23&labelColor=adf" alt="Discord: willster277#2707"></a>
+
+<a href="https://www.mongodb.com/"><img height="32" width="32" src="assets/mongo.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.docker.com/"><img height="32" width="32" src="assets/docker.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expressjs.com/"><img height="32" width="32" src="assets/express.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org/"><img height="32" width="32" src="assets/node.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.typescriptlang.org/"><img height="32" width="32" src="assets/typescript.png" /></a>
 
 ## About Me
 
@@ -9,8 +11,6 @@
 ### I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
 
 ### My preferred language is TypeScript, and I'm currently learning Svelte and SvelteKit to improve my fullstack skills.
-
-<img height="32" width="32" src="assets/mongo.png" />&nbsp;<img height="32" width="32" src="assets/docker.png" />&nbsp;<img height="32" width="32" src="assets/express.png" />&nbsp;<img height="32" width="32" src="assets/node.png" />&nbsp;<img height="32" width="32" src="assets/typescript.png" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willster277&theme=react&layout=compact)
 
