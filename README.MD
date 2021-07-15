@@ -88,11 +88,12 @@ The file icons im using are [material icons](https://marketplace.visualstudio.co
 ```json
 "material-icon-theme.hidesExplorerArrows": true,
 "material-icon-theme.files.associations": {
-	"*.config.ts": "Settings",
-	"*.conf.ts": "Settings",
-	"*.c.ts": "Settings",
-	"package-lock.json": "Nodejs_alt"
-}
+		"config.ts": "Settings",
+		"*.config.ts": "Settings",
+		"*.conf.ts": "Settings",
+		"*.c.ts": "Settings",
+		"package-lock.json": "Nodejs_alt"
+	},
 ```
 
 I'm using [oh-my-bash](https://github.com/ohmybash/oh-my-bash) Agnoster theme to color my bash terminal, though there is also [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) for any zsh users which does mostly the exact same.
