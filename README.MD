@@ -1,5 +1,7 @@
 # Will 'Willster' Johnson
 
+<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet" alt="Discord: willster277#2707"></a>
+
 ## About Me
 
 ### My name is Will Johnson, I'm 18 years old, and I'm a fullstack web developer.
@@ -13,8 +15,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willster277&theme=react&layout=compact)
 
 ![Willster277's GitHub stats](https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=react&hide=stars,prs)
-
-You can find me on Discord at <a href="https://discord.com/users/773137363395674133">willster277#2707</a>
 
 ## Find A Thing
 
