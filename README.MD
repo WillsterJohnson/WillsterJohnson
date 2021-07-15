@@ -77,7 +77,12 @@ The multicolored brackets are done using [Bracket Pair Colorizer 2](https://mark
 "bracket-pair-colorizer-2.colors": ["#f82a5d", "#f57f00", "#e7df60", "#98d800", "#5ccaef", "#a57fff"],
 "bracket-pair-colorizer-2.highlightActiveScope": true,
 "bracket-pair-colorizer-2.colorMode": "Independent",
-"bracket-pair-colorizer-2.scopeLineCSS": ["borderStyle : solid", "borderWidth : 2px", "borderColor : #fff", "opacity: 0.5"],
+"bracket-pair-colorizer-2.scopeLineCSS": [
+	"borderStyle : solid", 
+	"borderWidth : 2px", 
+	"borderColor : #fff", 
+	"opacity: 0.5"
+],
 "bracket-pair-colorizer-2.showBracketsInGutter": true,
 "bracket-pair-colorizer-2.showBracketsInRuler": true,
 "bracket-pair-colorizer-2.rulerPosition": "Full",
@@ -88,12 +93,12 @@ The file icons im using are [material icons](https://marketplace.visualstudio.co
 ```json
 "material-icon-theme.hidesExplorerArrows": true,
 "material-icon-theme.files.associations": {
-		"config.ts": "Settings",
-		"*.config.ts": "Settings",
-		"*.conf.ts": "Settings",
-		"*.c.ts": "Settings",
-		"package-lock.json": "Nodejs_alt"
-	},
+	"config.ts": "Settings",
+	"*.config.ts": "Settings",
+	"*.conf.ts": "Settings",
+	"*.c.ts": "Settings",
+	"package-lock.json": "Nodejs_alt"
+},
 ```
 
 I'm using [oh-my-bash](https://github.com/ohmybash/oh-my-bash) Agnoster theme to color my bash terminal, though there is also [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) for any zsh users which does mostly the exact same.
