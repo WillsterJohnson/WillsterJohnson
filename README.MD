@@ -26,13 +26,19 @@
 
 [Pins and Contributions](#Pins-and-Contributions)
 
-## Featured Repo: Express API Template
+## Featured Repos
 
-I've made a repo as a template for [serverside TypeScript](./TS) which you can use to skip the boring process of setting up your project.
+A collection of repos I wanna show off!
+
+### Svelte Components
+
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=svelte-components&theme=react)](https://github.com/willster277/svelte-components)
+
+### Express API Template (TypeScript)
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=typescript-backend-template&theme=react)](https://github.com/willster277/typescript-backend-template)
 
-If you don't do TypeScript, I've removed typings and done a little clean-up and made a [JavaScript only version](./JS).
+### Express API Template (JavaScript)
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=javascript-backend-template&theme=react)](https://github.com/willster277/javascript-backend-template)
 
