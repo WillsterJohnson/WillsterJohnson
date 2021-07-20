@@ -30,17 +30,23 @@
 
 A collection of repos I wanna show off!
 
-### Svelte Components
+### Svelte Components [Ongoing Development]
 
-An ongoing project where I store reusable components. Don't expect frequent changes, but do expect good quality.
+An repo where I store reusable components. Don't expect frequent changes, but do expect good quality.
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=svelte-components&theme=react)](https://github.com/willster277/svelte-components)
 
-### SvelteKit Development Template [WIP]
+### SvelteKit Development Template [Ongoing Development]
 
-A template for building fullstack SvelteKit+Svelte applications.
+A template for building fullstack SvelteKit applications.
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=sveltekit-template&theme=react)](https://github.com/willster277/sveltekit-template)
+
+### SvelteKit GraphQL Template [WIP]
+
+A template for building SvelteKit applications with integrated TypeGraphQL endpoints.
+
+[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=svelte-graphql-ts&theme=react)](https://github.com/willster277/svelte-graphql-ts)
 
 ## My VSCode Extensions Setup
 
