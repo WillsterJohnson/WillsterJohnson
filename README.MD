@@ -6,7 +6,7 @@
 
 ## About Me
 
-### My name is Will Johnson, I'm 18 years old, and I'm a fullstack web developer.
+### My name is Will Johnson, I'm 19 years old, and I'm a fullstack web developer.
 
 ### I work for Carrier Pigeon Advertising LTD in the UK, and I co-direct a start-up game development company called Story Ark.
 
