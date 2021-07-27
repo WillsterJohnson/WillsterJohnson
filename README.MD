@@ -44,80 +44,245 @@ A template for building fullstack SvelteKit applications.
 
 ## My VSCode Extensions Setup
 
-I use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to overcome my sloppy typing.
+*[There's an easier way](https://github.com/willster277/vscode-recommendations)*
 
-~~And when that isn't enough, I use [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) to autocomplete phrases and speed up my workflow.~~ _**I got GitHub Copilot early access! While the beta is ongoing (and probably afterwards too) I will be using Copilot instead of TabNine.**_
+### [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-To keep track of my docker containers, I use [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) and [Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers).
+### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-Because I use Discord as my main access to programming communities, I use [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) to show what I'm working on.
+```JSON
+"cSpell.allowCompoundWords": true,
+"cSpell.diagnosticLevel": "Hint",
+"cSpell.maxDuplicateProblems": 100000,
+"cSpell.language": "en",
+"cSpell.languageSettings": [{
+    "languageId": "en",
+    "allowCompoundWords": true,
+    "caseSensitive": true
+}],
+```
 
-To help with checking colors at a glance in any language, [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) is the way to go.
+### [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode)
 
-In any xml (including jsx/tsx) [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) is a huge help.
+### [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 
-When editing markdown, especially for quickly rendering HTML, [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji) and [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) are useful tools.
+### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-As for linting and formatting markdown, I use [Markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) and [Markdown-Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter) respectively.
+### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-For linting everything else though, [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) is the way to go.
+### [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-Some great tools to help with path finding in projects are [Path intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) and [Move TypeScript](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts).
+### [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+```JSON
+"markdown-preview-enhanced.enableScriptExecution": true,
+"markdown-preview-enhanced.previewTheme": "github-dark.css",
+"markdown-preview-enhanced.enableHTML5Embed": true,
+"markdown-preview-enhanced.enableLinkify": false,
+"markdown-preview-enhanced.wikiLinkFileExtension": ".html",
+"markdown-preview-enhanced.revealjsTheme": "none.css",
+"markdown-preview-enhanced.mermaidTheme": "dark",
+```
+
+### [Markdown Formatter](https://marketplace.visualstudio.com/items?itemName=mervin.markdown-formatter)
+
+```JSON
+"markdownFormatter.spaceAfterFullWidthOrHalfWidth": "neither",
+"markdownFormatter.fullWidthTurnHalfWidth": "",
+"markdownFormatter.formatULSymbol": false,
+"[markdown]": {
+    "editor.tabSize": 2,
+    "editor.defaultFormatter": "mervin.markdown-formatter",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": true,
+        "strings": true
+    }
+},
+```
+
+### [MarkdownLint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
+
+### [Move TS](https://marketplace.visualstudio.com/items?itemName=stringham.move-ts)
+
+### [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+
+```JSON
+"path-intellisense.autoSlashAfterDirectory": true,
+"path-intellisense.extensionOnImport": false,
+```
+
+### [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+
+```JSON
+"prettier.arrowParens": "always",
+"prettier.bracketSpacing": true,
+"prettier.cursorOffset": -1,
+"prettier.embeddedLanguageFormatting": "auto",
+"prettier.endOfLine": "lf",
+"prettier.filepath": "",
+"prettier.htmlWhitespaceSensitivity": "css",
+"prettier.insertPragma": false,
+"prettier.jsxBracketSameLine": false,
+"prettier.jsxSingleQuote": true,
+"prettier.parser": "typescript",
+"prettier.printWidth": 100,
+"prettier.proseWrap": "preserve",
+"prettier.quoteProps": "as-needed",
+"prettier.requirePragma": false,
+"prettier.semi": true,
+"prettier.singleQuote": false,
+"prettier.trailingComma": "all",
+"prettier.tabWidth": 4,
+"prettier.useTabs": true,
+```
+
+### [SCSS Intellisense](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-scss)
+
+### [Svelte VSCode](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+
+```JSON
+"svelte.enable-ts-plugin": true,
+"svelte.plugin.svelte.format.config.printWidth": 100,
+"svelte.plugin.svelte.format.config.svelteSortOrder": "scripts-markup-styles-options",
+```
+
+### [TabNine](https://marketplace.visualstudio.com/items?itemName=tabnine.tabnine-vscode)
+
+```JSON
+"tabnine.disable_file_regex": ["[^md]$"],
+```
+
+Alternative: [GitHub Copilot (BETA ACCESS)](https://marketplace.visualstudio.com/items?itemName=github.copilot)
+
+```JSON
+"github.copilot.autocomplete.enable": true,
+"github.copilot.advanced": {
+    "debug.autocomplete.fakeDelayMs": 0,
+    "autocomplete.maxWaitForResultsMs": 500,
+    "debug.autocomplete.showConfidence": true,
+    "debug.showScores": true
+},
+"github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+},
+```
+
+### Additional
+
+```JSON
+"editor.autoClosingBrackets": "always",
+"editor.formatOnType": true,
+"editor.wrappingIndent": "indent",
+"editor.lineHeight": 24,
+"editor.fontSize": 16,
+"editor.cursorBlinking": "expand",
+"editor.defaultFormatter": "esbenp.prettier-vscode",
+"editor.formatOnSave": true,
+"editor.formatOnPaste": true,
+"editor.cursorSurroundingLines": 5,
+"editor.wordWrap": "on",
+"explorer.confirmDelete": false,
+"explorer.confirmDragAndDrop": false,
+"editor.detectIndentation": false,
+"editor.insertSpaces": false,
+"editor.inlineSuggest.enabled": true,
+```
 
 ## My VSCode Theme Setup
 
+*[There's an easier way](https://github.com/willster277/vscode-recommendations)*
+
 ![My VSCode Appearance](./assets/editor.png)
 
-Im using [Monokai Pro (Machine Filter) Theme](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode).
+### [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
-The font I use is [Victor Mono](https://rubjo.github.io/victor-mono/).
-
-```json
-"editor.inlineHints.fontFamily": "'victor mono semibold'",
-"editor.codeLensFontFamily": "'victor mono semibold'",
-"editor.fontFamily": "'victor mono semibold'",
-"editor.fontLigatures": true,
-```
-
-The colored tabs come from [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow).
-
-```json
-"indentRainbow.colors": ["#f82a5da0", "#f57f00a0", "#e7df60a0", "#98d800a0", "#5ccaefa0", "#a57fffa0"],
-"indentRainbow.colorOnWhiteSpaceOnly": true,
-"indentRainbow.ignoreErrorLanguages": ["*"],
-```
-
-The multicolored brackets are done using [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2).
-
-```json
-"bracket-pair-colorizer-2.colors": ["#f82a5d", "#f57f00", "#e7df60", "#98d800", "#5ccaef", "#a57fff"],
+```JSON
+"bracket-pair-colorizer-2.colors": [
+    "#f82a5d", "#f57f00", "#e7df60", "#98d800", "#5ccaef", "#a57fff"
+],
 "bracket-pair-colorizer-2.highlightActiveScope": true,
 "bracket-pair-colorizer-2.colorMode": "Independent",
 "bracket-pair-colorizer-2.scopeLineCSS": [
-	"borderStyle : solid", 
-	"borderWidth : 2px", 
-	"borderColor : #fff", 
-	"opacity: 0.5"
+    "borderStyle : solid", "borderWidth : 2px", "borderColor : #fff", "opacity: 0.5"
 ],
 "bracket-pair-colorizer-2.showBracketsInGutter": true,
 "bracket-pair-colorizer-2.showBracketsInRuler": true,
 "bracket-pair-colorizer-2.rulerPosition": "Full",
 ```
 
-The file icons im using are [material icons](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme).
+### [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
-```json
-"material-icon-theme.hidesExplorerArrows": true,
-"material-icon-theme.files.associations": {
-	"config.ts": "Settings",
-	"*.config.ts": "Settings",
-	"*.conf.ts": "Settings",
-	"*.c.ts": "Settings",
-	"package-lock.json": "Nodejs_alt"
-},
+```JSON
+"colorize.colorized_colors": [
+    "HEXA", "RGB", "HSL"
+],
+"colorize.colorized_variables": [
+    "CSS", "SASS", "LESS", "STYLUS"
+],
+"colorize.languages": [
+    "c", "cpp", "css", "html", "javascript", "json", "jsonc", "jsx", "less", "postcss", "python", "sass", "scss", "sss", "stylus", "svg", "typescript", "typescriptreact", "xml", "md", "markdown"
+],
+"colorize.hide_current_line_decorations": false,
 ```
 
-I'm using [oh-my-bash](https://github.com/ohmybash/oh-my-bash) Agnoster theme to color my bash terminal, though there is also [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) for any zsh users which does mostly the exact same.
+### [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+```JSON
+"indentRainbow.colors": [
+    "#f82a5da0", "#f57f00a0", "#e7df60a0", "#98d800a0", "#5ccaefa0", "#a57fffa0"
+],
+"indentRainbow.colorOnWhiteSpaceOnly": true,
+"indentRainbow.ignoreErrorLanguages": ["*"],
+```
+
+### [Material Icons](https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme)
+
+```JSON
+"material-icon-theme.folders.theme": "specific",
+"material-icon-theme.folders.color": "#90a4ae",
+"material-icon-theme.showWelcomeMessage": false,
+"material-icon-theme.hidesExplorerArrows": true,
+"material-icon-theme.files.associations": {
+    "config.*": "Settings",
+    "*.config.*": "Settings",
+    "*.conf.*": "Settings",
+    "svelte.config.js": "Settings",
+    "package-lock.json": "Nodejs_alt"
+},
+"material-icon-theme.folders.associations": {
+    ".svelte-kit": "Svelte",
+    "store": "Database",
+    "stores": "Database",
+    "components": "Svelte",
+    "_components": "Svelte",
+    "_template": "Template",
+    "shared": "Svelte",
+    "module": "Graphql",
+    "entity": "Class"
+},
+"workbench.iconTheme": "material-icon-theme",
+```
+
+### [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+
+```JSON
+"workbench.colorTheme": "Monokai Pro (Filter Machine)",
+```
+
+### [oh-my-bash](https://github.com/ohmybash/oh-my-bash) / [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) (Theme: Agnoster)
+
+### [Victor Mono](https://rubjo.github.io/victor-mono/)
+
+```JSON
+"editor.inlineHints.fontFamily": "'victor mono semibold'",
+"editor.codeLensFontFamily": "'victor mono semibold'",
+"editor.fontFamily": "'victor mono semibold'",
+"editor.fontLigatures": true,
+```
 
 ## Pins and Contributions
 
