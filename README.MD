@@ -42,12 +42,6 @@ A template for building fullstack SvelteKit applications.
 
 [![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=sveltekit-template&theme=react)](https://github.com/willster277/sveltekit-template)
 
-### SvelteKit GraphQL Template [WIP]
-
-A template for building SvelteKit applications with integrated TypeGraphQL endpoints.
-
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=svelte-graphql-ts&theme=react)](https://github.com/willster277/svelte-graphql-ts)
-
 ## My VSCode Extensions Setup
 
 I use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) to overcome my sloppy typing.
