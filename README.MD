@@ -28,29 +28,11 @@ Tech
 
 ## Find A Thing
 
-[Featured Repo](#Featured-Repo-Express-API-Template)
-
 [VSCode Setup - Extensions](#My-VSCode-Extensions-Setup)
 
 [VSCode Setup - Themes](#My-VSCode-Theme-Setup)
 
 [Pins and Contributions](#Pins-and-Contributions)
-
-## Featured Repos
-
-A collection of repos I wanna show off!
-
-### Svelte Components [Ongoing Development]
-
-An repo where I store reusable components. Don't expect frequent changes, but do expect good quality.
-
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=svelte-components&theme=react)](https://github.com/willster277/svelte-components)
-
-### SvelteKit Development Template [Ongoing Development]
-
-A template for building fullstack SvelteKit applications.
-
-[![typescript backend template](https://github-readme-stats.vercel.app/api/pin/?username=willster277&repo=sveltekit-template&theme=react)](https://github.com/willster277/sveltekit-template)
 
 ## My VSCode Extensions Setup
 
