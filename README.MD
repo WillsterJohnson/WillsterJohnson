@@ -1,10 +1,13 @@
 # Will 'Willster' Johnson
 
-<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=23&labelColor=adf" alt="Discord: willster277#2707"></a>
+<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=22&labelColor=adf" alt="Discord: willster277#2707"></a>
 
-[<img width="39" src="assets/docker.png" />](https://www.docker.com/)      |[<img width="39" src="assets/mongo.png" />](https://www.mongodb.com/)       |[<img width="39" src="assets/node.png" />](https://nodejs.org/)  |[<img width="39" src="assets/express.png" />](https://expressjs.com/)
----------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------
-[<img width="39" src="assets/typegraphql.png" />](https://typegraphql.com/)|[<img width="39" src="assets/apollo.png" />](https://www.apollographql.com/)|[<img width="39" src="assets/svelte.png" />](https://svelte.dev/)|[<img width="39" src="assets/typescript.png" />](https://www.typescriptlang.org/)
+Server
+[<img height="39" src="assets/express.js.png" />](https://expressjs.com/)&nbsp;&nbsp;[<img height="39" src="assets/apollo.png" />](https://www.apollographql.com/)&nbsp;&nbsp;[<img height="39" src="assets/typegraphql.png" />](https://typegraphql.com/)
+Client
+[<img height="39" src="assets/typescript.png" />](https://www.typescriptlang.org/)&nbsp;&nbsp;[<img height="39" src="assets/svelte.png" />](https://svelte.dev/)&nbsp;&nbsp;[<img height="39" src="assets/sass.png" />](https://sass-lang.com/)
+Tech
+[<img height="39" src="assets/docker.png" />](https://www.docker.com/)&nbsp;&nbsp;[<img height="39" src="assets/mongo.png" />](https://www.mongodb.com/)&nbsp;&nbsp;[<img height="39" src="assets/node.png" />](https://nodejs.org/)
 
 ## About Me
 
