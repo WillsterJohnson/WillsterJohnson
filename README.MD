@@ -1,10 +1,10 @@
 # Will 'Willster' Johnson
 
-<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%235707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=23&labelColor=adf" alt="Discord: willster277#2707"></a>
+<a href="https://discord.com/users/773137363395674133"><img src="https://img.shields.io/badge/Discord-willster277%232707-blueviolet?style=for-the-badge&logo=discord&logoColor=blueviolet&logoWidth=23&labelColor=adf" alt="Discord: willster277#2707"></a>
 
-[<img height="35" width="35" src="assets/docker.png" />](https://www.docker.com/)      |[<img height="35" width="35" src="assets/mongo.png" />](https://www.mongodb.com/)       |[<img height="35" width="35" src="assets/node.png" />](https://nodejs.org/)  |[<img height="35" width="35" src="assets/express.png" />](https://expressjs.com/)
+[<img height="37" width="37" src="assets/docker.png" />](https://www.docker.com/)      |[<img height="37" width="37" src="assets/mongo.png" />](https://www.mongodb.com/)       |[<img height="37" width="37" src="assets/node.png" />](https://nodejs.org/)  |[<img height="37" width="37" src="assets/express.png" />](https://expressjs.com/)
 ---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------
-[<img height="35" width="35" src="assets/typegraphql.png" />](https://typegraphql.com/)|[<img height="35" width="35" src="assets/apollo.png" />](https://www.apollographql.com/)|[<img height="35" width="35" src="assets/svelte.png" />](https://svelte.dev/)|[<img height="35" width="35" src="assets/typescript.png" />](https://www.typescriptlang.org/)
+[<img height="37" width="37" src="assets/typegraphql.png" />](https://typegraphql.com/)|[<img height="37" width="37" src="assets/apollo.png" />](https://www.apollographql.com/)|[<img height="37" width="37" src="assets/svelte.png" />](https://svelte.dev/)|[<img height="37" width="37" src="assets/typescript.png" />](https://www.typescriptlang.org/)
 
 ## About Me
 
