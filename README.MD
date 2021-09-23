@@ -1,6 +1,6 @@
 # Will 'Willster' Johnson
 
-[<img height="39" src="assets/typescript.png" />](https://www.typescriptlang.org/)&nbsp;[<img height="39" src="assets/svelte.png" />](https://svelte.dev/)&nbsp;[<img height="39" src="assets/sass.png" />](https://sass-lang.com/)[<img height="39" src="assets/mongo.png" />](https://www.mongodb.com/)[<img height="39" src="assets/node.png" />](https://nodejs.org/)
+[<img height="39" src="assets/typescript.png" />](https://www.typescriptlang.org/)&nbsp;[<img height="39" src="assets/svelte.png" />](https://svelte.dev/)[<img height="39" src="assets/fauna.png" />](https://fauna.com/)
 
 ### About Me
 
