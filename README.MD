@@ -13,4 +13,4 @@ My preferred language is TypeScript, and my framework of choice is SvelteKit.
 ### Contact:
 
 Discord: <a href="https://discord.com/users/773137363395674133">willster277#2707</a>
-Email: <a href="mailto:277willjohnson@gmail.com">277willjohnson@gmail.com</a>
+Email: <a href="mailto:277willjohnson@gmail.com">willster@willsterjohnson.com</a>
