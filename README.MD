@@ -1,6 +1,6 @@
 # Will 'Willster' Johnson
 
-[<img height="39" src="assets/typescript.png" />](https://www.typescriptlang.org/)&nbsp;[<img height="39" src="assets/svelte.png" />](https://svelte.dev/)[<img height="39" src="assets/fauna.png" />](https://fauna.com/)
+[<img height="39" src="assets/typescript.png" />](https://typescriptlang.org/)&nbsp;[<img height="39" src="assets/svelte.png" />](https://svelte.dev/)&nbsp;[<img height="39" src="assets/mongo.png" />](https://mongodb.com/)
 
 ### About Me
 
@@ -15,3 +15,5 @@ My preferred language is TypeScript, and my framework of choice is SvelteKit.
 Discord: <a href="https://discord.com/users/773137363395674133">willster277#2707</a>
 
 Email: <a href="mailto:277willjohnson@gmail.com">willster@willsterjohnson.com</a>
+
+Twitter: <a href="https://twitter.com/willsterjohnson">@willsterjohnson</a>
