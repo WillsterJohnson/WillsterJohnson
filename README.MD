@@ -17,3 +17,6 @@ Discord: <a href="https://discord.com/users/773137363395674133">willster277#2707
 Email: <a href="mailto:277willjohnson@gmail.com">willster@willsterjohnson.com</a>
 
 Twitter: <a href="https://twitter.com/willsterjohnson">@willsterjohnson</a>
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
