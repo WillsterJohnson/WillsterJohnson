@@ -18,4 +18,6 @@ Email: <a href="mailto:277willjohnson@gmail.com">willster@willsterjohnson.com</a
 
 Twitter: <a href="https://twitter.com/willsterjohnson">@willsterjohnson</a>
 
-<!-- daily.dev BOOKMARKS:START --> <!-- daily.dev BOOKMARKS:END -->
+<!-- daily.dev BOOKMARKS:START -->
+- [6 Best Practices to Improve Node.js Security](https://app.daily.dev/posts/kE-i5D3QK?utm_source=rss&utm_medium=bookmarks&utm_campaign=fFUdpVpq-)
+<!-- daily.dev BOOKMARKS:END -->
