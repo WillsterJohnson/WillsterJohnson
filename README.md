@@ -4,7 +4,7 @@
 
 ### About Me
 
-I go by Willster, I'm 19 years old, and I'm a self-taught fullstack web developer.
+I go by Willster, I'm 20 years old, and I'm a self-taught fullstack web developer.
 
 My preferred language is TypeScript, and my framework of choice is SvelteKit.
 
