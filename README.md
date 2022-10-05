@@ -28,6 +28,7 @@ I go by Willster, I'm 20 years old, and I'm a self-taught fullstack web develope
 
 My preferred language is TypeScript, and my framework of choice is SvelteKit.
 
+(if you see two white boxes with some kinda error message, the guys who made the API for these are working on it)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height="200"
