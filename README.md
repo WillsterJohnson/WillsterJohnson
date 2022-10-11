@@ -49,3 +49,7 @@ My preferred language is TypeScript, and my framework of choice is SvelteKit.
 ---
 
 `x === x` is not always `true` <!-- `const x = 0/0;` (or any other NaN) -->
+
+<!-- TODO: integrate these?
+https://social-img.staticblitz.com/viteconf2022-tickets/willster277/svelte
+-->
