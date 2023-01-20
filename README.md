@@ -32,15 +32,15 @@ My preferred language is TypeScript, and my framework of choice is SvelteKit.
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height="200"
-    alt="willster277's Language stats"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=willster277&layout=compact&theme=github_dark"
+    alt="WillsterJohnson's Language stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsterJohnson&layout=compact&theme=github_dark"
   />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
     height="200"
-    alt="Willster277's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=willster277&count_private=true&show_icons=true&theme=github_dark"
+    alt="WillsterJohnson's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=WillsterJohnson&count_private=true&show_icons=true&theme=github_dark"
   />
 </a>
 
@@ -49,7 +49,3 @@ My preferred language is TypeScript, and my framework of choice is SvelteKit.
 ---
 
 `x === x` is not always `true` <!-- `const x = 0/0;` (or any other NaN) -->
-
-<!-- TODO: integrate these?
-https://social-img.staticblitz.com/viteconf2022-tickets/willster277/svelte
--->
