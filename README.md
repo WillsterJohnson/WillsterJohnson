@@ -18,12 +18,12 @@ sk-mono is currently in early alpha, and is not yet ready for use.
 *(if you see two white boxes with some kinda error message, the guys who made the API are working on it)*
 
 <img
-	height="200"
+	height="180"
 	alt="WillsterJohnson's Language stats"
 	src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsterJohnson&layout=compact&title_color=d92680&text_color=ff66b3&icon_color=d92680&border_color=d92680&bg_color=0f0008"
 />
 <img
-	height="200"
+	height="180"
 	alt="WillsterJohnson's GitHub Stats"
 	src="https://github-readme-stats.vercel.app/api?username=WillsterJohnson&count_private=true&show_icons=true&title_color=d92680&text_color=ff66b3&icon_color=d92680&border_color=d92680&bg_color=0f0008"
 />
