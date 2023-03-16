@@ -14,18 +14,18 @@ When I'm not busy with more sensible projects, I enjoy playing with libraries an
 
 **[sk-mono](https://github.com/WillsterJohnson/sk-mono)**
 
-*Progress is slow; circumstances have changed and there is talk of SvelteKit directly improving it's monorepo capabilities*
+sk-mono is a CLI for creating, managing, running, deploying, and distributing [SvelteKit](https://kit.svelte.dev/) apps and packages in a monorepo, designed accounting for compatibility with [Turborepo](https://turbo.build/repo)'s best-in-class efficiency for monorepo action management.
 
-sk-mono is a CLI built in [Rust](https://www.rust-lang.org/) for creating, managing, running, deploying, and distributing [SvelteKit](https://kit.svelte.dev/) apps and packages in a monorepo, designed accounting for compatibility with [Turborepo](https://turbo.build/repo)'s best-in-class efficiency for monorepo action management.
-
-sk-mono is currently in early alpha, and is not yet ready for use.
+sk-mono is currently in the early stages of development, and is not recommended for use in professional projects.
 
 **D.I.M.E.N.S.I.O.N.S.**
 
 *Stands for "Data Interaction and Modification Engine with Normalised Syntax for Intricate Operations and Novel Systems"*
 
-D.I.M.E.N.S.I.O.N.S. (or just "dimensions" to save time) is a DSL I am architecting which aims to provide the maximum flexibility of a data management system (eg, a store's stock tracker, a payroll system, a government vehicle registrar - anything like that) for the minimum amount of code.
-It's key objectives are to abstract away the concept of server and client while remaining configurably secure, support the use of any database or API or combination thereof as the data-source, and to be both infinitely tweakable and easily usable without configuration.
+D.I.M.E.N.S.I.O.N.S. (or just "dimensions" to save time) is a programming language I am designing.
+It sits in an awkward space between general purpose and domain specific; it will be able to do any arbitrary operations, however it's designed for web interfaces to databases & API data.
+The goal of dimensions is to provide high-level concepts and abilities as highly-efficient and core functionality in a compiled language. It's syntax is designed to be easy, sensible, and largely optional, while it's compilation and runtime are designed to be efficient, fast, and bare-bones.
+Imagine if JavaScript was less janky and performed like Rust.
 
 Dimensions is currently in initial design, and will remain closed-source for the forseeable future. Licensing, distribution, and price (if any) are yet to be decided.
 
