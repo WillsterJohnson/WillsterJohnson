@@ -10,7 +10,19 @@ Apart from my main projects, I love tinkering with smaller projects too. Over th
 
 When I'm not busy with more sensible projects, I enjoy playing with libraries and APIs I find interesting. Be it Discord bots, VSCode and Obsidian plugins and themes, automation scripts, building browser extensions, even headless browser puppeteers. Basically, anything that involves tinkering with code is a prime target for me.
 
+### What's My 'Big Project'?
+
+My big project is [Type The Platform](https://github.com/TypeThePlatform), it's parser-compiler engine [RuleComp](https://github.com/TypeThePlatform/RuleComp), and a RuleComp plugin kit for typed web development [SupaSet](https://github.com/TypeThePlatform/SupaSet).
+
+RuleComp is an endlessly pluggable and extensible compiler which aims to make compiler authoring as simple as possible.
+SupaSet is a plugin kit for RuleComp with aims to provide an effective typing solution to JavaScript.
+Type The Plaform is the organisation I have created for doing this.
+
 ### What Am I Wokring On Now?
+
+Nothing to report!
+
+### What Am I Working On Very Occasionally?
 
 **[sk-mono](https://github.com/WillsterJohnson/sk-mono)**
 
