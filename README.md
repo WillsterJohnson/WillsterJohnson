@@ -44,6 +44,12 @@ In effect, Dimensions is an ORM DSL with general-purpose superpowers.
 
 Dimensions is currently in initial design, and will remain closed-source for the forseeable future. Licensing and distribution are yet to be decided.
 
+**My website**
+
+My website is [willsterjohnson.com](https://willsterjohnson.com), and by visiting it you might see that it hasn't been updated in a while.
+This is because making a website about myself isn't fun, interesting, useful, nor a learning opportunity. Why go though all the bother of building a website to describe myself when this markdown document does the same thing much more concisely and is embedded into my GitHub profile?
+I'll get to it eventually, but ego-driven developement isn't my style.
+
 ### Contributions & Most used languages
 
 *(if you see two white boxes with some kinda error message don't panic. The service generating these has been generously provided for free, it will be back in an hour or two)*
