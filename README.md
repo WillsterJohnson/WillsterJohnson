@@ -4,7 +4,7 @@
 
 I go by Willster, I'm a 20-year-old self-taught full-stack web-developer who needs five hyphens to describe.
 
-My expertise lies in web technologies like TypeScript, JavaScript, HTML, CSS, and Node. I'm particularly drawn to Svelte and SvelteKit for web app development, but I also have some experience in React and I'm currently learning Qooxdoo.
+My expertise lies in web technologies like TypeScript, JavaScript, HTML, CSS, and Node. I'm particularly drawn to Svelte and SvelteKit for web app development, but I also have some experience in React and Vue, and I'm currently learning Qooxdoo.
 
 Apart from my main projects, I love tinkering with smaller projects too. Over the years, I've dabbled in various programming languages including Rust, C#, Python, Dart, VBA, and PHP. I'm always on the lookout for new tools and technologies to experiment with.
 
@@ -18,9 +18,12 @@ RuleComp is an endlessly pluggable and extensible compiler which aims to make co
 SupaSet is a plugin kit for RuleComp with aims to provide an effective typing solution to JavaScript.
 Type The Plaform is the organisation I have created for doing this.
 
+The rationale behind SupaSet is that TypeScript and JSDoc are limited, slow to introduce community-desired features, and not extensible by a community-driven ecosystem.
+The rationale behind RuleComp is that if I've got to build a compiler/interpreter/parser for SupaSet anyway, I may as well continue the theme of pluggable extensibility.
+
 ### What Am I Wokring On Now?
 
-Nothing to report!
+I'm currently taking a break from Web programming to work on a Discord Bot using discord.js for a web development community I'm a part of.
 
 ### What Am I Working On Very Occasionally?
 
@@ -36,10 +39,10 @@ sk-mono is currently in the early stages of development, and is not recommended 
 
 D.I.M.E.N.S.I.O.N.S. (or just "dimensions" to save time) is a programming language I am designing.
 It sits in an awkward space between general purpose and domain specific; it will be able to do any arbitrary operations, however it's designed for web interfaces to databases & API data.
-The goal of dimensions is to provide high-level concepts and abilities as highly-efficient and core functionality in a compiled language. It's syntax is designed to be easy, sensible, and largely optional, while it's compilation and runtime are designed to be efficient, fast, and bare-bones.
-Imagine if JavaScript was less janky and performed like Rust.
+The goal of dimensions is to provide high-level concepts and abilities as highly-efficient core functionality in a compiled language. It's syntax is designed to be easy, sensible, and largely optional, while it's compilation and runtime are designed to be efficient, fast, and bare-bones.
+In effect, Dimensions is an ORM DSL with general-purpose superpowers.
 
-Dimensions is currently in initial design, and will remain closed-source for the forseeable future. Licensing, distribution, and price (if any) are yet to be decided.
+Dimensions is currently in initial design, and will remain closed-source for the forseeable future. Licensing and distribution are yet to be decided.
 
 ### Contributions & Most used languages
 
