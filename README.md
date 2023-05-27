@@ -14,18 +14,18 @@ While I am primarily self taught, I have a T-Level Merit (UK Higher Education Ce
 
 ### What's My 'Big Project'?
 
-*Currently in desgin, this will take quite some time.*
+*Currently in design, this will take quite some time.*
 
 My big project is [Type The Platform](https://github.com/TypeThePlatform), it's parser-transpiler engine [RuleComp](https://github.com/TypeThePlatform/RuleComp), and a RuleComp plugin kit for typed web development [SupaSet](https://github.com/TypeThePlatform/SupaSet).
 
 RuleComp is an endlessly pluggable and extensible transpiler which aims to make transpiler authoring as simple as possible.
 SupaSet is a plugin kit for RuleComp with aims to provide an effective typing solution to JavaScript.
-Type The Plaform is the organisation I have created to own this.
+Type The Platform is the organisation I have created to own this.
 
 The rationale behind SupaSet is that TypeScript and JSDoc are limited, slow to introduce community-desired features, and not extensible by a community-driven ecosystem.
 The rationale behind RuleComp is that if I've got to build a transpiler/interpreter/parser for SupaSet anyway, I may as well continue the theme of pluggable extensibility.
 
-### What Am I Wokring On Now?
+### What Am I Working On Now?
 
 I'm currently focusing most of my hobby-time programming on [Smelterial](https://github.com/Smelterial/smelterial), which aims to bring not only the full and specification-strict range of Material You design components to Svelte, but also to build a collection of composite components from these tokens, providing instant access to the majority of common use cases.
 
@@ -49,7 +49,7 @@ All-RC is still being specified, and will not have a stable API for some time.
 Don't you wish GitHub desktop was a little less GitHub-focused and a little more get-things-done-easily-focused?
 Maybe not, you might be a whizz with the command line. But some folks aren't, and they don't have to be.
 
-Argon is built with SvelteKit, Vite, and Tauri to provide a single, beautiful, and plugabble application for managing your projects, your contributions, and only the parts of GitHub you care about.
+Argon is built with SvelteKit, Vite, and Tauri to provide a single, beautiful, and pluggable application for managing your projects, your contributions, and only the parts of GitHub you care about.
 
 Argon is in-development, but it's UI (and consequently, much of the rest of it) is put on hold to wait for Smelterial to mature into a more usable UI Library.
 
