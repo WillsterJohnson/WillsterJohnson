@@ -2,7 +2,7 @@
 
 ### About Me
 
-I go by Willster, I'm a 20-year-old self-taught\* full-stack web-developer who needs five hyphens to describe.
+I go by Willster, I'm a full-stack web-developer who needs five hyphens to describe.
 
 My expertise lies in web technologies like TypeScript, JavaScript, HTML, CSS, and Node. I'm particularly drawn to Svelte and SvelteKit for web app development, but I also have some experience in React and Vue, along with several other NPM libraries.
 
@@ -10,7 +10,7 @@ Apart from my main projects, I love tinkering with smaller projects too. Over th
 
 When I'm not busy with more sensible projects, I enjoy playing with libraries and APIs I find interesting. Be it Discord bots, VSCode and Obsidian plugins and themes, automation scripts, building browser extensions, even headless browser puppeteers. Basically, anything that involves tinkering with code is a prime target for me.
 
-> \* While I am primarily self taught, I have a T-Level Merit (UK Higher Education Certificate) in Digital Design, Production, & Development, and am currently studying with The Open University to achieve a BSc (Undergraduate Certificate) in Computing, aiming to graduate with a 1st by 2026.
+While I am primarily self taught, I have a T-Level Merit (UK Higher Education Certificate) in Digital Design, Production, & Development, and am currently studying with The Open University to achieve a BSc (Undergraduate Certificate) in Computing, aiming to graduate with a 1st by 2026.
 
 ### What's My 'Big Project'?
 
