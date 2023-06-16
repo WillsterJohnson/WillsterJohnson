@@ -2,15 +2,15 @@
 
 ### About Me
 
-I go by Willster, I'm a full-stack web-developer who needs five hyphens to describe.
+I go by Willster, I'm a full-stack web-developer and general tinkerer.
 
-My expertise lies in web technologies like TypeScript, JavaScript, HTML, CSS, and Node. I'm particularly drawn to Svelte and SvelteKit for web app development, but I also have some experience in React and Vue, along with several other NPM libraries.
+My expertise lies in web technologies like TypeScript, JavaScript, HTML, CSS, and Node. I'm particularly drawn to Svelte and SvelteKit for web app development, however I also have some experience in React and Vue, along with several other popular NPM libraries.
 
 Apart from my main projects, I love tinkering with smaller projects too. Over the years, I've dabbled in various programming languages including Rust, C#, Python, Dart, VBA, and PHP. I'm always on the lookout for new tools and technologies to experiment with.
 
-When I'm not busy with more sensible projects, I enjoy playing with libraries and APIs I find interesting. Be it Discord bots, VSCode and Obsidian plugins and themes, automation scripts, building browser extensions, even headless browser puppeteers. Basically, anything that involves tinkering with code is a prime target for me.
+When I'm not busy with more sensible projects, I enjoy playing with libraries and APIs I find interesting. Be it Discord bots, VSCode and Obsidian plugins and themes, automation scripts, building browser extensions, even headless browser puppeteers. Basically, anything that involves tinkering with code is a prime target for me. My greatest weakness is a library without TypeScript types - "I could port this to TypeScript!" is a phrase which has cost me countless hours.
 
-While I am primarily self taught, I have a T-Level Merit (UK Higher Education Certificate) in Digital Design, Production, & Development, and am currently studying with The Open University to achieve a BSc (Undergraduate Certificate) in Computing, aiming to graduate with a 1st by 2026.
+While I am primarily self taught, I have a T-Level Merit (UK Level 3 Certificate) in Digital Design, Production, & Development, and am currently studying with The Open University to achieve a BSc in Computing, aiming to graduate with a 1st by 2026.
 
 ### What's My 'Big Project'?
 
@@ -55,8 +55,8 @@ Argon is in-development, but it's UI (and consequently, much of the rest of it) 
 
 **My website**
 
-My website is [willsterjohnson.com](https://willsterjohnson.com), and by visiting it you might see that it hasn't been updated in a while.
-This is because making a website about myself isn't fun, interesting, useful, nor a learning opportunity. Why go though all the bother of building a website to describe myself when this markdown document does the same thing much more concisely and is embedded into my GitHub profile?
+My website is [willsterjohnson.com](https://willsterjohnson.com), and by visiting it you might see that it hasn't had much time spent on it.
+This is because making a website about myself isn't fun, interesting, useful, nor a learning opportunity. Why go though all the bother of building a website to describe myself when this markdown document does the same thing much more effectively and is embedded into my GitHub profile?
 I'll get to it eventually, but ego-driven developement isn't my style. Much like Argon, my website can wait until Smelterial is more usable (can you tell I like Material You?).
 
 ### Contributions & Most used languages
