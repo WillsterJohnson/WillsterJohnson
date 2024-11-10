@@ -11,18 +11,3 @@ Apart from my main projects, I love tinkering with smaller projects too. Over th
 When I'm not busy with more sensible projects, I enjoy playing with libraries and APIs I find interesting. Be it Discord bots, VSCode and Obsidian plugins and themes, automation scripts, building browser extensions, even headless browser puppeteers. Basically, anything that involves tinkering with code is a prime target for me. My greatest weakness is an npm library without TypeScript types - "I could port this to TypeScript!" is a phrase which has cost me countless hours.
 
 While I am primarily self taught, I have a T-Level Merit (UK Level 3 Certificate) in Digital Design, Production, & Development, and am currently studying with The Open University to achieve a BSc in Computing, aiming to graduate with a 2nd in 2026-2028, depending on how busy I am with real work. My on-the-job training has seen me using JavaScript, TypeScript, Java, SCSS, and more.
-
-### Contributions & Most used languages
-
-*(if you see two white boxes with some kinda error message don't panic. The service generating these has been generously provided for free and has limited availability)*
-
-<img
-	height="186.5"
-	alt="WillsterJohnson's Language stats"
-	src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillsterJohnson&layout=compact&title_color=d92680&text_color=ff66b3&icon_color=d92680&border_color=d92680&bg_color=0f0008"
-/>
-<img
-	height="186.5"
-	alt="WillsterJohnson's GitHub Stats"
-	src="https://github-readme-stats.vercel.app/api?username=WillsterJohnson&count_private=true&show_icons=true&title_color=d92680&text_color=ff66b3&icon_color=d92680&border_color=d92680&bg_color=0f0008"
-/>
